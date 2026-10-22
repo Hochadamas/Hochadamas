@@ -10,9 +10,9 @@
 
 ### About Me
 
-**US** Software Developer interested in infrastructure, DevOps, and cybersecurity. Because I'm naturally curious and want to understand how entire systems work end-to-end, I like getting hands-on with a wide range of technologies!
+**US** Software Developer interested in infrastructure, DevOps, and network. Because I'm naturally curious and want to understand how entire systems work end-to-end, I like getting hands-on with a wide range of technologies!
 
-**JP** インフラ、DevOps、セキュリティに関心があるソフトウェアエンジニアです。システム全体の仕組みを裏側まで深掘りして理解したい好奇心から、幅広い技術に触れています！
+**JP** インフラ、DevOps、ネットワークに関心があるソフトウェアエンジニアです。システム全体の仕組みを裏側まで深掘りして理解したい好奇心から、幅広い技術に触れています！
 
 ### Currently Working On
 
