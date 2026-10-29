@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Hochadamas&color=blue)
 <p align="center">
   <a href="https://github.com/Hochadamas">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=Welcome%20to%20my%20Github%20profile%20!" alt="Welcome to my Github profile !" />
